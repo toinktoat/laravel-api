@@ -8,6 +8,6 @@ class Tes extends Controller
 {
     public function index()
     {
-        return 'it works oke';
+        return 'it works oke deh';
     }   
 }
